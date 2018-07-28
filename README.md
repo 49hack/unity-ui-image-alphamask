@@ -24,3 +24,7 @@ Unity2017.3.1f1
 * Maskの回転、タイリング、9スライスは使用できない
 * Mask画像はWrapModeをClampに設定し、画像端の1ピクセルをアルファ0で描くこと
 
+# 技術的な解説
+技術的な解説は、以下のブログで書いています。
+
+[【Unity】uGUI ImageでAlpha Maskを使えるように実装する方法](http://appleorbit.hatenablog.com/entry/2018/07/28/210058)
